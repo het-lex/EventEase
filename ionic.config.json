@@ -1,0 +1,7 @@
+{
+  "name": "EventEase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
